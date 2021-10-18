@@ -9,7 +9,7 @@
 * _Git_
 
 ### Description
-_This is a simple webpage that utelized Git branches to finalize which stylesheet was used._
+_This is a simple webpage that utilized Git branches to finalize which stylesheet was used._
 
 ### Known Bugs
 _No known bugs at this time._
